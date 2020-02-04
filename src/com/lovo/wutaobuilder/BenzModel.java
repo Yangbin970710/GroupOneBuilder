@@ -5,7 +5,6 @@ public class BenzModel extends CarModel {
     public String CarEngine;
     public String CarWheel;
     public String CarBody;
-
     public void setCarEngine(String carEngine) {
         CarEngine = carEngine;
     }
